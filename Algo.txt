@@ -1,5 +1,6 @@
 1. Google local pizza places.
-2. Decide which one to order from 
+2. Decide which one to order from.
+2a.  Decide what kind of pizza to order.
 3. Call the pizza place.
 4. Order pizza.
 5a.	IF paying over the phone, provide payment info
